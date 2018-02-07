@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/zacbryant/Desktop/TAFEBUDDY/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/zacbryant/Desktop/TAFEBUDDY/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/zacbryant/Desktop/FishITemplate/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/zacbryant/Desktop/FishITemplate/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    }
+]
