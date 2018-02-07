@@ -333,10 +333,130 @@ class Icons extends Component {
                   Daily boat limit when 3 or more people are on board: 180
                   </Text>
                   </Card>
-
-
-
-
+                  <Card
+                    title='Mulloway'
+                    image={require('../images/mulloway.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 82 cm measured from tip of snout to tip of tail
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 2
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people on board:6
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Nannygai'
+                    image={require('../images/nannygai.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 30 cm measured from tip of snout to tip of tail
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 10
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people on board: 30
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Salmon'
+                    image={require('../images/salmon.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 21 cm measured from tip of snout to tip of tail
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit
+                  for Salmon 21 to 35 cm: 20, 
+                  for Salmon longer than 35 cm: 10                 
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit (applies where 3 or more people on board):
+                  for Salmon 21 to 35 cm: 60, 
+                  for Salmon longer than 35 cm: 30              
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Samsonfish'
+                    image={require('../images/samsonfish.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 88 cm measured from tip of snout to tip of tail
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 1                
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 3                  
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Sand Crab'
+                    image={require('../images/sandcrab.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 10 cm measured across the carapace from side to side
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 20 - combined with Blue Swimmer Crabs
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 60 - combined with Blue Swimmer Crabs
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Restrictions: Females with external eggs are totally protected and must be returned to the water immediately
+                  </Text>
+                  </Card>
+                  <Card
+                    title='School Shark'
+                    image={require('../images/schoolshark.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 45 cm measured from the 5th gill slit to the base of the tail.
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: combined total of 2 Gummy and School Sharks.
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people on board: combined total of 6 Gummy and School Sharks.
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Restrictions: It is illegal to fish for sharks (or any other fish) using a wire trace that is 2mm diameter or greater in conjunction with a hook sized 12/0 or greater.
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Sea Urchin'
+                    image={require('../images/seaurchin.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  No minimum legal length
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 20               
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 60                 
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Snapper'
+                    image={require('../images/Snapper.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 38 cm
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people on board:
+                  Snapper 38 to 60 cm: 15, 
+                  Snapper over 60 cm: 6
+                                    </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Closed season:
+                  Statewide midday 1 November to midday 15 December.                  </Text>
+                  </Card>
 
               </View>
             </ScrollView>

@@ -1,4 +1,4 @@
-#Tue Feb 06 19:09:58 ACDT 2018
-base.0=/Users/zacbryant/Desktop/FishITemplate/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+#Thu Feb 08 06:34:50 ACDT 2018
+base.0=/Users/zacbryant/FishINew/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
 renamed.0=classes.dex
-file.0=/Users/zacbryant/Desktop/FishITemplate/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+file.0=/Users/zacbryant/FishINew/android/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
