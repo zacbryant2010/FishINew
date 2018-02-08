@@ -17,10 +17,10 @@ const MainNavigator = TabNavigator(
             path: '/feed',
 
             navigationOptions: {
-                tabBarLabel: 'Feed',
+                tabBarLabel: 'Home',
                 tabBarIcon: ({ tintColor, focused }) => (
                     <Icon
-                        name='feed'
+                        name='home'
                         size={25}
                         type="font-awesome"
                         color={tintColor}
@@ -35,10 +35,10 @@ const MainNavigator = TabNavigator(
             screen: EventTab,
             path: '/event',
             navigationOptions: {
-                tabBarLabel: 'Event',
+                tabBarLabel: 'Search',
                 tabBarIcon: ({ tintColor, focused }) => (
                     <Icon
-                        name="event"
+                        name="home"
                         size={25}
                         color={tintColor}
                     />

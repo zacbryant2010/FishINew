@@ -23,21 +23,7 @@ import socialColors from 'HSSocialColors';
 
 
 
-const list1 = [
-  {
-    name: '6MITP - Kym Bond',
-    subtitle: 'Today 2:00PM N008',
-  },
-  {
-    name: '4C#M - Dale Van Heer',
-    subtitle: 'Today 4:30PM N007',
-  },
-  {
-    name: '4SDB - KT Lau',
-    subtitle: 'Today 6:30PM NOO7',
-  },
 
-];
 
 class Icons extends Component {
   constructor() {
@@ -61,21 +47,22 @@ class Icons extends Component {
     return (
       <ScrollView>
         <View style={styles.hero} backgroundColor={socialColors.quora}>
-          <Icon color="white" name="feed" size={62} type="font-awesome" />
-          <Text style={styles.heading}>Feed</Text>
+          <Icon color="white" name="home" size={62} type="font-awesome" />
+          <Text style={styles.heading}>Home</Text>
         </View>
         
-        <List>
-          {
-            list1.map((l, i) => (
-              <ListItem
-                key={i}
-                title={l.name}
-                subtitle={l.subtitle}
-              />
-            ))
-          }
-        </List>
+        <Card
+        title='FishI SA'
+        >
+      <Text style={{marginBottom: 10}}>
+      FishI SA developed by Zac Bryant
+      </Text>
+      <Text style={{marginBottom: 10}}>
+      Currently phase 2 in development featuring image recognition capabilities, future AU library incoming      </Text>
+      <Text style={{marginBottom: 10}}>
+      Enquiries or issues email zac.bryant15@gmail.com      
+      </Text>
+      </Card>
         
 
         

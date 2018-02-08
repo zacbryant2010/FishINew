@@ -79,7 +79,7 @@ class Icons extends Component {
 
               <View style={styles.container}>
                 <View style={styles.hero} backgroundColor={socialColors.quora}>
-                  <Icon color="white" name="event" size={62}  />
+                  <Icon color="white" name="search" size={62}  />
                   <Text style={styles.heading}>SA Fish</Text>
                 </View>
                 <Card

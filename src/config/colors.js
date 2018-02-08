@@ -6,7 +6,7 @@ export default {
   primary: '#397af8',
   primary1: '#4d86f7',
   primary2: '#6296f9',
-  secondary: '#058BCA',
+  secondary: '#056ACA',
   secondary2: '#00B233',
   secondary3: '#00FF48',
   grey1: '#43484d',
