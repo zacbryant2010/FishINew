@@ -455,7 +455,219 @@ class Icons extends Component {
                                     </Text>
                   <Text style={{marginBottom: 10}}>
                   Closed season:
-                  Statewide midday 1 November to midday 15 December.                  </Text>
+                  Statewide midday 1 November to midday 15 December.                 
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Snook'
+                    image={require('../images/snook.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 45 cm measured from tip of snout to tip of tail
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 20
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 60              
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Southern Bluefin Tuna'
+                    image={require('../images/bluefintuna.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  No minimum legal length
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 2
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 6
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Southern Calamari - Squid'
+                    image={require('../images/calamari.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  No minimum legal length
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: Either 15 Squid or a combined total of 15 Squid and Cuttlefish
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people on board: Either 45 Squid or a combined total of 45 Squid and Cuttlefish
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Closed area: The taking of all cephalopods (Squid, Cuttlefish and Octopus) is prohibited at all times in the waters of False Bay, Spencer Gulf, near Whyalla
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Southern Garfish'
+                    image={require('../images/garfish.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 23 cm measured from tip of the upper jaw to the tip of the tail.
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 30
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 90
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Spangled Perch'
+                    image={require('../images/spangledperch.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  No minimum legal length
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 15
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 45
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Sweep'
+                    image={require('../images/sweep.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 24 cm
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 20
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 60
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Trevally'
+                    image={require('../images/trevally.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 24 cm
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 20
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 60
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Trout - Rainbow and Brown'
+                    image={require('../images/trout.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 28 cm measured from the tip of the snout to the tip of the tail.
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  No bag or boat limit. Take only what you need.
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Western Blue Groper'
+                    image={require('../images/westerngrouper.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 60 cm measured from tip of snout to tip of tail
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Maximum legal length: 100 cm measured from tip of snout to tip of tail
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 1
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 3
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Whaler Shark'
+                    image={require('../images/whalershark.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  No minimum legal length.
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 1
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 3
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Wrasse'
+                    image={require('../images/wrasse.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Size limits:
+                  minimum: 25 cm, 
+                  maximum: 35 cm                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 5
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people on board: 15
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Yabby'
+                    image={require('../images/yabby.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  No size limit.
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 200
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 600
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Restrictions: Female yabbies carrying eggs are totally protected and must be returned to the water immediately.
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Yellowfin Tuna'
+                    image={require('../images/yellowfintuna.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Limits were removed for Yellowfin Tuna on 1 December 2016.
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Yellowfin Tuna'
+                    image={require('../images/yellowfintuna.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length: 24 cm measured from tip of snout to tip of tail
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit: 20
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people are on board: 60
+                  </Text>
+                  </Card>
+                  <Card
+                    title='Yellowtail Kingfish'
+                    image={require('../images/yellowfinkingfish.jpg')}
+                    imageStyle={styles.image}>
+                  <Text style={{marginBottom: 10}}>
+                  Minimum legal length:60 cm measured from tip of snout to tip of tail
+                  </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Personal daily bag limit:1
+                 </Text>
+                  <Text style={{marginBottom: 10}}>
+                  Daily boat limit when 3 or more people on board:3
+                  </Text>
                   </Card>
 
               </View>
