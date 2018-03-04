@@ -21,6 +21,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_29859913ad677baf5614526e713cce3809249f29.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/zacbryant/Desktop/FishITemplate/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -45,6 +54,15 @@
         revision="23.0.1"
         sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
         <dex dex="/Users/zacbryant/Desktop/TAFEBUDDY/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_24b344df784d1614a83c558e3bd3add7d4689cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/tafebuddyproto/react-native-vector-icons/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f2cf527de8d0bd35d72088fafea02395ba4a9eec">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/tafebuddyproto-react-native-vector-icons-unspecified_79eca0637b0061048f2753e7c28cf383bbbb8f6e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -93,6 +111,24 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_60445f713d8912162af37b90298465ae9781c521.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_eef564b7ba8fc92f5d464022c55a04ba7fbc7e44.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/zacbryant/Desktop/TAFEBUDDY/android/app/build/intermediates/exploded-aar/tafebuddyproto/react-native-vector-icons/unspecified/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -129,6 +165,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_f110f2d3c708484d7edc803fdb90a2dc52bb3f97.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/zacbryant/Desktop/FishITemplate/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
         jumboMode="false"
         optimize="true"
@@ -156,21 +201,21 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/zacbryant/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="23.0.1"
-        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
-        <dex dex="/Users/zacbryant/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b08cd5aa50292f647de63648672a405d66547484.jar" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/zacbryant/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
         <dex dex="/Users/zacbryant/Desktop/TAFEBUDDY/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_95b0692990135f1f042a404be79516077cbe70de.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zacbryant/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/zacbryant/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_b08cd5aa50292f647de63648672a405d66547484.jar" />
     </item>
     <item
         is-multidex="false"
@@ -192,12 +237,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_5596d7ad309545e0a87760299310de62035b8a48.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/zacbryant/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
         <dex dex="/Users/zacbryant/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_70efa10477165b974908120fb3708efee9e71954.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_bf5a196912ee61cb034cdd36555dc7dd35ced9d0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -237,12 +300,39 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_5c6a26f2da73afa74dabb74d40dadabca8d880c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/zacbryant/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
         <dex dex="/Users/zacbryant/Desktop/TAFEBUDDY/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_a63acfefa33f6ff88a00adb2cf74c1d81ca28883.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_ef58118f298b7f9ff1c5e3dcbb536fb2c372a917.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_e950ede58acbcb85b089a0b5b7a80505e50877e9.jar" />
     </item>
     <item
         is-multidex="false"
@@ -270,6 +360,15 @@
         revision="23.0.1"
         sha1="6975da39a7040257bd51d21a231b76c915872d38">
         <dex dex="/Users/zacbryant/Desktop/TAFEBUDDY/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_9891977c40cdf31743db47a6e20bc6d806775024.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_be8617b6668dde47bde74532060e64639434fe16.jar" />
     </item>
     <item
         is-multidex="false"
@@ -408,6 +507,15 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_ee00d3933b77e9f5eb04e04f8acbb034668750b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/zacbryant/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
         jumboMode="false"
         optimize="true"
@@ -444,12 +552,30 @@
     </item>
     <item
         is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_dec760f0ad52706bde73bb5687224a014c8b1de3.jar" />
+    </item>
+    <item
+        is-multidex="false"
         jar="/Users/zacbryant/Desktop/TAFEBUDDY/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="23.0.1"
         sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
         <dex dex="/Users/zacbryant/Desktop/TAFEBUDDY/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_d3a8a07bb4137fe40c744470fb6e2eb57300b6a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_90a321adb77fc673b25bfc1cd5c4b71cc44af44b.jar" />
     </item>
 
 </items>

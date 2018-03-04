@@ -3,18 +3,18 @@ import { View, Image, Platform } from 'react-native';
 import { TabNavigator } from 'react-navigation';
 import { Icon } from 'react-native-elements';
 
-import FeedTab from './src/tabs/feed';
-import ScheduleTab from './src/tabs/schedule';
-import EventTab from './src/tabs/event';
-import MyTAFETab from './src/tabs/mytafe';
+import  HomeTab from './src/tabs/home';
+
+import LibraryTab from './src/tabs/library';
+
 
 import socialColors from 'HSSocialColors';
 
 const MainNavigator = TabNavigator(
     {
         FeedTab: {
-            screen: FeedTab,
-            path: '/feed',
+            screen: HomeTab,
+            path: '/home',
 
             navigationOptions: {
                 tabBarLabel: 'Home',
@@ -30,21 +30,25 @@ const MainNavigator = TabNavigator(
             },
 
         },
+
+
        
-        EventTab: {
-            screen: EventTab,
-            path: '/event',
+        LibraryTab: {
+            screen: LibraryTab,
+            path: '/library',
             navigationOptions: {
                 tabBarLabel: 'Search',
                 tabBarIcon: ({ tintColor, focused }) => (
                     <Icon
-                        name="home"
+                        name="search"
                         size={25}
                         color={tintColor}
                     />
                 ),
             },
         },
+
+        
        
     },
     {

@@ -4,6 +4,10 @@
         "source": "/Users/zacbryant/Desktop/TAFEBUDDY/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
     {
+        "merged": "/Users/zacbryant/FishISA/FishINew/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/zacbryant/FishISA/FishINew/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
         "merged": "/Users/zacbryant/FishINew/android/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
         "source": "/Users/zacbryant/FishINew/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
     },
